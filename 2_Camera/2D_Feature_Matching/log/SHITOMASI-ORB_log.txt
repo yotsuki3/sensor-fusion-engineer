@@ -1,0 +1,98 @@
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 28.8179 ms
+The number of keypoints in the preceding vehicle is n=125 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.16324 ms
+#3 : EXTRACT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 25.8603 ms
+The number of keypoints in the preceding vehicle is n=118 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.48316 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 3.24746 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 36.8807 ms
+The number of keypoints in the preceding vehicle is n=123 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.67288 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.603655 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 25.9237 ms
+The number of keypoints in the preceding vehicle is n=120 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.4144 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 1.45774 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 37.2721 ms
+The number of keypoints in the preceding vehicle is n=120 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.1529 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 2.93948 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 42.3736 ms
+The number of keypoints in the preceding vehicle is n=113 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.58222 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 2.05355 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 46.2062 ms
+The number of keypoints in the preceding vehicle is n=114 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.12934 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 4.42747 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 18.7566 ms
+The number of keypoints in the preceding vehicle is n=123 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.85757 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.956515 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 18.7961 ms
+The number of keypoints in the preceding vehicle is n=111 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.99105 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.562185 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 18.1966 ms
+The number of keypoints in the preceding vehicle is n=112 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.52645 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.534789 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done

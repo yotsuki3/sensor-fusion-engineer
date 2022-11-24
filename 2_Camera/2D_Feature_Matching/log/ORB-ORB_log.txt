@@ -1,0 +1,98 @@
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4847 keypoints in 20.5602 ms
+The number of keypoints in the preceding vehicle is n=617 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 13.0827 ms
+#3 : EXTRACT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4845 keypoints in 19.8621 ms
+The number of keypoints in the preceding vehicle is n=617 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 9.51775 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 17.5688 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4854 keypoints in 42.6776 ms
+The number of keypoints in the preceding vehicle is n=614 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 12.6482 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 21.2449 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4851 keypoints in 21.1553 ms
+The number of keypoints in the preceding vehicle is n=623 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 9.33647 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 14.4007 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4865 keypoints in 21.6295 ms
+The number of keypoints in the preceding vehicle is n=601 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 11.9841 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 21.9062 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4839 keypoints in 20.3257 ms
+The number of keypoints in the preceding vehicle is n=625 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 9.51222 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 15.0236 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4858 keypoints in 21.3654 ms
+The number of keypoints in the preceding vehicle is n=610 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 10.7653 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 32.3885 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4866 keypoints in 21.8839 ms
+The number of keypoints in the preceding vehicle is n=618 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 10.6537 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 20.0593 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4886 keypoints in 19.7849 ms
+The number of keypoints in the preceding vehicle is n=588 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 8.88328 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 11.495 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n=4870 keypoints in 21.3561 ms
+The number of keypoints in the preceding vehicle is n=583 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 10.7934 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 21.5575 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done

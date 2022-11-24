@@ -1,0 +1,98 @@
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=339 keypoints in 21.7491 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.254836 ms
+#3 : EXTRACT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=286 keypoints in 25.8099 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.170868 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.046191 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=349 keypoints in 18.6961 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.497193 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.008493 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=356 keypoints in 21.1386 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.372631 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.007655 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=521 keypoints in 26.8812 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.209107 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.007359 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=2611 keypoints in 20.1127 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.212061 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.006618 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=200 keypoints in 19.7788 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.237655 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.007358 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=806 keypoints in 25.1955 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.465592 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.006997 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=572 keypoints in 19.3948 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.245565 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.007142 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000009.png
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=1471 keypoints in 20.7124 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.210334 ms
+#3 : EXTRACT DESCRIPTORS done
+ Matching (KNN) with n=0 matches in 0.006808 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done

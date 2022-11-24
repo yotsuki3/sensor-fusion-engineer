@@ -1,0 +1,6 @@
+
+The loaded image is ../images/KITTI/2011_09_26/image_00/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n=2757 keypoints in 61.3391 ms
+The number of keypoints in the preceding vehicle is n=264 keypoints
+#2 : DETECT KEYPOINTS done

@@ -1,0 +1,9 @@
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+ORB detection with n=4906 keypoints in 15.5009 ms
+The number of keypoints in the preceding vehicle is n=603 keypoints
+#5 : DETECT KEYPOINTS done

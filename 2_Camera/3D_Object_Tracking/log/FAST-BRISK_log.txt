@@ -1,0 +1,125 @@
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=1864 keypoints in 2.14819 ms
+The number of keypoints in the preceding vehicle is n=160 keypoints
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.24033 ms
+#6 : EXTRACT DESCRIPTORS done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=1898 keypoints in 1.01607 ms
+The number of keypoints in the preceding vehicle is n=174 keypoints
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.85816 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=160 matches in 2.1847 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Input kptMatches.size=160
+Output boundingBox.kptMatches.size=77
+TTC Lidar = 12.2891
+TTC camera = 12.3806
+Press key to continue to next frame
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=1865 keypoints in 1.25323 ms
+The number of keypoints in the preceding vehicle is n=168 keypoints
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.78084 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=174 matches in 2.14931 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Input kptMatches.size=174
+Output boundingBox.kptMatches.size=83
+TTC Lidar = 13.3547
+TTC camera = 10.6939
+Press key to continue to next frame
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=1840 keypoints in 1.16437 ms
+The number of keypoints in the preceding vehicle is n=179 keypoints
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.91731 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=168 matches in 2.25013 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Input kptMatches.size=168
+Output boundingBox.kptMatches.size=100
+TTC Lidar = 16.3845
+TTC camera = 13.6008
+Press key to continue to next frame
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=1867 keypoints in 1.22627 ms
+The number of keypoints in the preceding vehicle is n=161 keypoints
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.69943 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=179 matches in 2.16063 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Input kptMatches.size=179
+Output boundingBox.kptMatches.size=81
+TTC Lidar = 14.0764
+TTC camera = 13.5026
+Press key to continue to next frame
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=1876 keypoints in 1.20444 ms
+The number of keypoints in the preceding vehicle is n=173 keypoints
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.36691 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=161 matches in 2.61989 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Input kptMatches.size=161
+Output boundingBox.kptMatches.size=81
+TTC Lidar = 12.7299
+TTC camera = 132.775
+Press key to continue to next frame
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+FAST detection with n=1843 keypoints in 1.22734 ms
+The number of keypoints in the preceding vehicle is n=167 keypoints
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.77461 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=173 matches in 2.68426 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+Input kptMatches.size=173
+Output boundingBox.kptMatches.size=87
+TTC Lidar = 13.7511
+TTC camera = 13.4382
+Press key to continue to next frame

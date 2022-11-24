@@ -1,0 +1,112 @@
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000000.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=299 keypoints in 16.1372 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.88128 ms
+#6 : EXTRACT DESCRIPTORS done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000001.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=820 keypoints in 12.1089 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.774687 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=0 matches in 0.035563 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000002.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=319 keypoints in 12.1679 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.79348 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=0 matches in 0.010803 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000003.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=583 keypoints in 16.5058 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.754173 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=0 matches in 0.010305 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000004.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=940 keypoints in 12.2785 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.775902 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=0 matches in 0.010787 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000005.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=913 keypoints in 32.3323 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.2675 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=0 matches in 0.010494 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000006.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=1008 keypoints in 14.0936 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.796512 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=0 matches in 0.010858 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000007.png
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Harris detection with n=1149 keypoints in 12.1979 ms
+The number of keypoints in the preceding vehicle is n=0 keypoints
+#5 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.809945 ms
+#6 : EXTRACT DESCRIPTORS done
+ Matching (NN) with n=0 matches in 0.01008 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+
+Load imag ../images/KITTI/2011_09_26/image_02/data/0000000008.png
+#1 : LOAD IMAGE INTO BUFFER done
